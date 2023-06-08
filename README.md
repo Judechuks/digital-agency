@@ -1,6 +1,8 @@
 # DIGITAL AGENCY
 A digital agency website built with **HTML**, **CSS**, and **JS**
 It is a static and single-page website with different sections.
+
+### Branches
 This project contains three branches:
 #### 1. Main branch (default)
 #### 2. Version-1.1
