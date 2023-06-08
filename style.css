@@ -589,7 +589,7 @@ margin: 20px auto;
       font-size: 1.2rem;
     }
     #footer p{
-      font-size: 0.9rem;
+      font-size: 0.9rem/*14.4px*/;
     }
     #footer .col-2 p{
       text-align: left;
