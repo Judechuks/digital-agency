@@ -8,11 +8,13 @@ It is a static and single-page website with different sections.
 ## SECTIONS
 The Webpage have the following sections, namely;
 **Header**,**Hero**, **Procedure**, **Savings**, **Support**, **Tips** and **Footer** 
+
 ### 1. HEADER  SECTION
 Which contains the logo, navigation links, like **Home**, **Services**, **About us**, **testimonials** and **contact**.
 
 ### 2. BANNER SECTION
-Which contains intro message for the user, the diffeerent services that are offered and a call to action link to watch the tutorials to learn digital skills.
+Which contains intro message for the user, the diffeerent services that are offered and a call to action link to watch the tutorials to learn digital skills. 
+It also contains three buttons for themes (white(default), black and red).
 
 ### 3. SERVICES SECTION
 Contains the different services that the agency offers and a button to view all the avaliable services.
