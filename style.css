@@ -74,12 +74,7 @@ a{
   border: none;
   transition: 0.8s;
 }
-.top-wave,
-.bottom-wave{
-  display: block;
-  width: 100%;
-  height: 100%;
-}
+
 /*=== End of CSS Reset and Global Settings ===*/
 
 /*========== HEADER SECTION ==========*/
@@ -168,7 +163,6 @@ nav ul li a:hover{
 
 /*============ BANNER SECTION ============*/
 #banner{
-  /* background: linear-gradient(to right, #a517ba, #5f1782); */
   color: inherit;
 }
 #banner .row{
@@ -253,7 +247,7 @@ nav ul li a:hover{
 
 /*============ SERVICES SECTION ============*/
 #services{
-  /* background-color: #f6f6f6; */
+  background-color: #ccc;
   padding-top: 40px;
   padding-bottom: 10px;
   text-align: center;
@@ -285,7 +279,6 @@ margin: 20px auto;
 
 /*============ ABOUT SECTION ============*/
 #about{
-  /* background-color: #f6f6f6; */
   padding-top: 40px;
   padding-bottom: 10px;
 }
@@ -314,7 +307,7 @@ margin: 20px auto;
 
 /*============ TESTIMONIALS SECTION ============*/
 #testimonials{
-  /* background-color: #f6f6f6; */
+  background-color: #ccc;
   padding-top: 50px;
   padding-bottom: 50px;
 }
